@@ -1,0 +1,60 @@
+/*@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');*/
+
+
+body{
+    background: linear-gradient(135deg, orange 60%, cyan);
+}
+.container{
+    text-align: center;
+    margin-top: 53px;
+    height: 100%;
+}
+table{
+    margin: auto;
+}
+input{
+    font-size: 24px;
+    border: 5px solid lightgreen;
+    border-radius: 20px;
+    height: 65px;
+    width: 340px;
+}
+button{
+    font-size: 33px;
+    width: 70px;
+    height: 45px;
+    font-weight: 600;
+    border-radius: 20px;
+    margin: 6px;
+    height: 110%;
+}
+
+.operation{
+    background: rgb(54, 69, 79);
+    color: white;
+}
+.ac{
+    color:#cc7000;
+    width:150px;
+    font-size:43px;
+}
+.del{
+    color:#cc7000;
+}
+.equal{
+    color:rgb(255,255,255);
+    background-color:#cc7000;
+}
+.number{
+    background:#808080;
+    color:#ffffff;
+}
+.calculator{
+    display: inline-block;
+    background: rgb(0, 0, 0);
+    padding: 33px;
+    border-radius: 15px 50px;
+    border: 4px solid rgb(2, 48, 32);
+}
+
+
